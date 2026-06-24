@@ -17,7 +17,7 @@
 
 
 
-![JinWoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJirung&show_icons=true&theme=merko)
+![JinWoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jirungx&show_icons=true&theme=merko)
 
 <br/><br/>
 <**Algorithm Problem Solving**>
