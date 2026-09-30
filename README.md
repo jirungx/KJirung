@@ -1,73 +1,165 @@
-<div align=center>
+# Jinwoong Kim
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=Hello,%20I'm%20Kim%20Jin%20Woong&fontSize=50)
+M.S. Student in **Industrial Data Engineering, Hanyang University**
 
-<br/>
+My research focuses on **time-series modeling**, **explainable artificial intelligence (XAI)**, and **deep learning for sequential data**.
 
+I am particularly interested in modeling irregular and multivariate observations, understanding temporal changes in data, and interpreting how AI models make predictions.
 
-<br/><br/><br/><br/>
+<p align="left">
+  <a href="https://scholar.google.co.kr/citations?hl=ko&user=gZVlIokAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jinwoong-kim-271ba73aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jukpa0610@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-## 😀 Introduction
+---
 
+## Research Interests
 
+- Multivariate & Irregular Time-Series Modeling
+- Explainable Artificial Intelligence (XAI)
+- Temporal Pattern & Risk Analysis
+- Transformer / Mamba-based Sequence Modeling
+- Multimodal AI
+- Large-scale Data Processing & Learning Pipelines
 
+---
 
+## Publications
 
-<br/><br/>
+### 2026
 
+**GroupSegment-SHAP: Shapley Value Explanations with Group-Segment Players for Multivariate Time Series**  
+**Jinwoong Kim**, Sangjin Park*  
+*ACM International Conference on Information and Knowledge Management (CIKM), 2026*
 
+**Temporal Interpretation of Physiologic Group Contributions for ICU Mortality Prediction**  
+**Jinwoong Kim**, Yeeun Kim, Sangjin Park*  
+*Scientific Reports, 2026*
 
-![JinWoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jirungx&show_icons=true&theme=merko)
+Digital Behavior Change Interventions for Digital Overuse: From Static Controls to AI-Enabled Adaptive Systems – A Scoping Review  
+Hyeonhak Kim, Sujung Kim, **Jinwoong Kim**, Sangjin Park*  
+*Journal of Medical Internet Research, 2026*
 
-<br/><br/>
-<**Algorithm Problem Solving**>
+### 2025
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnddl9456)](https://solved.ac/dnddl9456/)
+**IKNet: Interpretable Stock Price Prediction via Keyword-Guided Integration of News and Technical Indicators**  
+**Jinwoong Kim**, Sangjin Park*  
+*ACM International Conference on AI in Finance (ICAIF), 2025*
 
-<br/><br/><br/>
+GroupSHAP-Guided Integration of Financial News Keywords and Technical Indicators for Stock Price Prediction  
+Minjoo Kim, **Jinwoong Kim**, Sangjin Park*  
+*ACM ICAIF Workshop, 2025*
 
-## 💪 Skills 
+**Analysis of Influential Factors for the Prediction of YouTube Views Using Tree-Based Machine Learning**  
+**Jinwoong Kim**, Jiwon Seo, Changho Son, Seungho Choi*  
+*Journal of Digital Contents Society, 2025*
 
-<br/><br/>
-**Library & Languages**
+### 2024
 
+**Jump Rope Exercise Assistance Program**  
+**Jinwoong Kim**, Jaewoo Shin, Seungho Choi*  
+*IEEE Access, 2024*
 
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white)
-![scikit learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=for-the-badge&logo=scikit%20learn&logoColor=white)
+<sub>* Corresponding author</sub>
 
+---
 
+## Preprints
 
-**Tools**
+**IMPACT-VLA: Interaction-aware Multimodal Propagation Attribution via Counterfactual Trajectories for Vision-Language-Action Policies**  
+**Jinwoong Kim**, Sangjin Park*  
+*Under Review* · [arXiv:2609.15005](https://arxiv.org/abs/2609.15005)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+**ReTAMamba: Reliability-Aware Temporal Aggregation with Mamba for Irregular Clinical Time Series Prediction**  
+**Jinwoong Kim**, Sangjin Park*  
+*Under Review* · [arXiv:2605.16380](https://arxiv.org/abs/2605.16380)
 
+**MaBERT: A Padding Safe Interleaved Transformer-Mamba Hybrid Encoder for Efficient Extended Context Masked Language Modeling**  
+**Jinwoong Kim**, Sangjin Park*  
+*Under Review* · [arXiv:2603.03001](https://arxiv.org/abs/2603.03001)
 
-**Operating System**
+<sub>* Corresponding author</sub>
 
-![Windows](https://img.shields.io/badge/Windows-0078D4.svg?&style=for-the-badge&logo=Windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white)
+---
 
-<br/><br/>
+## Research Experience
 
-## 📑 Certificate
+### National Research Foundation of Korea
+**Graduate Student Research Grant**  
+Sep. 2026 – Aug. 2027
 
-- 컴퓨터 활용능력 1급
-- 네트워크 관리사 2급
-- ICDL start certificate
-- GTQ 2급
+- Research on temporal changes and early risk patterns in multivariate physiological signals
+- Explainable AI-based analysis of temporal contributions and early warning patterns
 
-<br/><br/><br/>
+### National Research Foundation of Korea
+**Intelligent Digital Well-being Intervention System**  
+Apr. 2025 – Present
 
-## :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jukpa0610@gmail.com)](mailto:jukpa0610@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dnddl9456@naver.com)](mailto:dnddl9456@naver.com)
+- Built large-scale smartphone usage log collection and preprocessing pipelines
+- Developed deep learning-based behavioral prediction models
+- Applied XAI methods to behavioral pattern analysis
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=JinWoong)](https://velog.io/@dnddl9456)
+### Hallym University Medical Center
+**Federated Learning for Gastrointestinal Endoscopy Image Segmentation**  
+Jan. 2024 – Dec. 2024
 
-</div>
+- Developed endoscopy image segmentation models for lesions and anatomical structures
+- Conducted multi-institutional federated learning experiments
 
+---
+
+## Honors & Awards
+
+- **2026** · Graduate Student Research Grant, National Research Foundation of Korea
+- **2026** · Selected for AI Training Program, Nanyang Technological University
+- **2025** · Special Contribution Award, Hansung University
+- **2024** · Achievement Scholarship, Anyang Talent Development Foundation
+
+---
+
+## Skills
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Machine Learning / Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+`Time Series` · `Explainable AI` · `Transformer` · `Mamba` · `Multimodal AI`
+
+**Environment**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Education
+
+**Hanyang University**  
+M.S. in Industrial Data Engineering  
+Sep. 2025 – Present
+
+**Hansung University**  
+B.S. in IT Convergence Engineering  
+Mar. 2019 – Feb. 2025
+
+---
+
+## Contact
+
+- **Email:** [jukpa0610@gmail.com](mailto:jukpa0610@gmail.com)
+- **Google Scholar:** [Jinwoong Kim](https://scholar.google.co.kr/citations?hl=ko&user=gZVlIokAAAAJ)
+- **LinkedIn:** [Jinwoong Kim](https://www.linkedin.com/in/jinwoong-kim-271ba73aa/)
